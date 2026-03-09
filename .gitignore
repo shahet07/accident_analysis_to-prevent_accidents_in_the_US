@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data files (large/raw)
+*.csv
+*.zip
+*.parquet
+*.feather
+*.duckdb
+
+# Notebook outputs (optional)
+*.html
